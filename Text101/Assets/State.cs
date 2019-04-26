@@ -9,7 +9,7 @@ public class State : ScriptableObject {
     [TextArea(10, 14)]
     string storyText;
 
-    string getStoryText() {
+    public string getStoryText() {
         return storyText;
     }
 }

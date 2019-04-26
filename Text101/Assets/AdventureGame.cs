@@ -7,9 +7,12 @@ public class AdventureGame : MonoBehaviour {
     [SerializeField]
     Text textComponent;
 
+    [SerializeField]
+    State startingState;
+
     // Start is called before the first frame update
     void Start() {
-        textComponent.text = "Updated from script bro.";
+        textComponent.text = startingState.getStoryText();
     }
 
     // Update is called once per frame
