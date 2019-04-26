@@ -9,7 +9,14 @@ public class State : ScriptableObject {
     [TextArea(10, 14)]
     string storyText;
 
+    [SerializeField]
+    State nextState;
+
     public string getStoryText() {
         return storyText;
+    }
+
+    public State getNextState() {
+        return nextState;
     }
 }

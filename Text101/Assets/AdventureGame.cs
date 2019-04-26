@@ -15,11 +15,22 @@ public class AdventureGame : MonoBehaviour {
     // Start is called before the first frame update
     void Start() {
         currentState = startingState;
+        DisplayState();
+    }
+
+    void UpdateState() {
+        currentState = currentState.getNextState();
+    }
+
+    void DisplayState() {
         textComponent.text = currentState.getStoryText();
     }
 
     // Update is called once per frame
     void Update() {
-
+        if (Input.GetKeyDown(KeyCode.UpArrow)) {
+            UpdateState();
+            DisplayState();
+        }
     }
 }
