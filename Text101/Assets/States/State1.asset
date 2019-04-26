@@ -17,3 +17,4 @@ MonoBehaviour:
     originally came here from the sea to find watermelon.\r"
   nextStates:
   - {fileID: 11400000, guid: d8c725cd7ca05fe41b1a5320ea931c64, type: 2}
+  - {fileID: 11400000, guid: d8c725cd7ca05fe41b1a5320ea931c64, type: 2}
