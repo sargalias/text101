@@ -10,9 +10,12 @@ public class AdventureGame : MonoBehaviour {
     [SerializeField]
     State startingState;
 
+    private State currentState;
+
     // Start is called before the first frame update
     void Start() {
-        textComponent.text = startingState.getStoryText();
+        currentState = startingState;
+        textComponent.text = currentState.getStoryText();
     }
 
     // Update is called once per frame
