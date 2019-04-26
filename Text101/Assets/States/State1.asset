@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
+  m_Name: State1
+  m_EditorClassIdentifier: 
+  storyText: "You are a little turtle who is all alone in the Jungle. There are many
+    threats in the jungle, so you need to take care when traversing through it. You
+    originally came here from the sea to find watermelon.\r"
+  nextStates:
+  - {fileID: 11400000, guid: d8c725cd7ca05fe41b1a5320ea931c64, type: 2}
