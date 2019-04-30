@@ -18,14 +18,14 @@ public class AdventureGame : MonoBehaviour {
         DisplayState();
     }
 
-    void DisplayState() {
-        textComponent.text = state.GetStoryText();
-    }
-
     // Update is called once per frame
     void Update() {
         UpdateState();
         DisplayState();
+    }
+
+    private void DisplayState() {
+        textComponent.text = state.GetStoryText();
     }
 
     private void UpdateState() {
