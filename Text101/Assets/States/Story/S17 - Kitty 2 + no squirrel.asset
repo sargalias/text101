@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
   m_Name: S17 - Kitty 2 + no squirrel
   m_EditorClassIdentifier: 
-  storyText: "You walk for a few more minutes.\r\n\r\nUp ahead you start to notice
-    a round dark green object. As you look closer, you notice that there are more
-    of them, quite a lot actually.\r\n\r\nYou become very excited and realise that
-    you've found the watermelon! Not just 1 or 2 watermelons, but lots and lots of
-    them!\r\n\r\nYou can't contain your excitement and you start running (still going
-    at slow pace though) towards the treasure of watermelons.\r\n\r\nUnfortunately,
-    right behind the treasure, is Kitty. She has spotted you and is heading towards
-    you.\r\n\r\n1: Continue.\r"
+  storyText: "You tell Squirrel to go away and he leaves.\r\n\nYou walk for a few
+    more minutes.\r\n\r\nUp ahead you start to notice a round dark green object. As
+    you look closer, you notice that there are more of them, quite a lot actually.\r\n\r\nYou
+    become very excited and realise that you've found the watermelon! Not just 1 or
+    2 watermelons, but lots and lots of them!\r\n\r\nYou can't contain your excitement
+    and you start running (still going at slow pace though) towards the treasure of
+    watermelons.\r\n\r\nUnfortunately, right behind the treasure, is Kitty. She has
+    spotted you and is heading towards you.\r\n\r\n1: Continue.\r"
   nextStates:
   - {fileID: 11400000, guid: 6418ca95de2bb7f4aa3d5bd733a96ab5, type: 2}
