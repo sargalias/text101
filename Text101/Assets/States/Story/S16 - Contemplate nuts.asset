@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
+  m_Name: S16 - Contemplate nuts
+  m_EditorClassIdentifier: 
+  storyText: "You spend some time contemplating why squirrels enjoy nuts so much.\r\n\r\n1:
+    Continue."
+  nextStates:
+  - {fileID: 11400000, guid: c2e76aea058680c498af591ceb39fcd5, type: 2}

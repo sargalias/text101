@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
+  m_Name: I1 - Introduction
+  m_EditorClassIdentifier: 
+  storyText: "Welcome to Jungle Trouble. This is a simple text adventure game where
+    you read the story and then press one of the number keys to progress.\r\n\r\nEnjoy!\r\n\r\n1:
+    Press 1 to continue."
+  nextStates:
+  - {fileID: 11400000, guid: d8c725cd7ca05fe41b1a5320ea931c64, type: 2}

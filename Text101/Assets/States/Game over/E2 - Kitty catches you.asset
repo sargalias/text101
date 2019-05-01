@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
+  m_Name: E2 - Kitty catches you
+  m_EditorClassIdentifier: 
+  storyText: "Kitty is now rushing towards you at full speed.\r\n\r\nAs she's getting
+    close she raises her paw high up, ready for a swing. With perfect timing she swings
+    at you with full force.\r\n\r\nThankfully you have shell and you have withdrawn
+    fully into it for protection, however the swing knocks you high up in the air
+    and away. As you're flying away, you see Squirrel waving goodbye to you while
+    eating his nut, then running up a tree.\r\n\r\nEventually you fall back down.
+    You got knocked so far back that you're now at the beach where you started.\r\n\r\nGuess
+    watermelon was not meant to be.\r\n\r\n1: Play again."
+  nextStates:
+  - {fileID: 11400000, guid: e4dc4dde80e902c438be1e4b476f0eb1, type: 2}

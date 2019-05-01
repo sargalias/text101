@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
+  m_Name: S2 - Enter the jungle
+  m_EditorClassIdentifier: 
+  storyText: "You're certain the watermelon must be towards the center of the jungle,
+    because where else would it be?\r\n\r\nAs you keep going you come across various
+    different animals like frogs, parrots... all of them minding their own business.\r\n\r\nYou
+    also see an energetic squirrel who seems to be sunbathing but looks like he's
+    got something to say.\r\n\r\n1: Keep going deeper into the jungle.\r\n\r\n2: Talk
+    to the squirrel."
+  nextStates:
+  - {fileID: 11400000, guid: ec1add7c837092b418644ec37ddbefdb, type: 2}
+  - {fileID: 11400000, guid: a58f207f35e885242bd39d695b58e0bb, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
+  m_Name: S13 - Kitty 2 getting closer + squirrel
+  m_EditorClassIdentifier: 
+  storyText: "Kitty is close now and is getting even closer. You don't have a lot
+    of time until she's here. You don't have a stone to throw at her either.\r\n\r\nYou
+    look at Squirrel and you see he's carrying around 10 nuts or so. Each one is roughly
+    the size of a stone...\r\n\r\n1: Quick! Ask squirrel for a nut.\r\n\r\n2: Spend
+    some time thinking about why squirrels eat nuts, watermelon is so much better.\r\n\r\n3:
+    Tell squirrel to throw a nut at Kitty."
+  nextStates:
+  - {fileID: 11400000, guid: 7d36ffa04c8d4304baf5cd2d6ef1c711, type: 2}
+  - {fileID: 11400000, guid: b9c9af45a581ec74b9f46c3ce841b0c0, type: 2}
+  - {fileID: 11400000, guid: 886209b29e645704cbf845f4f0fdbaae, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
+  m_Name: S4 - Get deeper into the jungle
+  m_EditorClassIdentifier: 
+  storyText: "You've been walking for a few minutes, but being a turtle you haven't
+    covered much ground. However you're certain the watermelon is not too far now.\r\n\r\nAs
+    you keep walking you notice what looks like a large tiger in the distance. You
+    think that her name is probably \"Kitty\".\r\n\r\n1: Keep going in the direction
+    of the watermelon.\r\n\r\n2: Take a longer but safer route to avoid Kitty."
+  nextStates:
+  - {fileID: 11400000, guid: 39f47286fd92f834fbd199cc10296c5d, type: 2}
+  - {fileID: 11400000, guid: 3ea91633d7944a94986e236d7d6aab42, type: 2}

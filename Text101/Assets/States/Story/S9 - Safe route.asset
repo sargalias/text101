@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
+  m_Name: S9 - Safe route
+  m_EditorClassIdentifier: 
+  storyText: "You change route and go through some bushes, progressing even slower.
+    Next over some rocks which you find quite difficult.\r\n\r\nThere is a small drop
+    on the next rock and a gust of wind makes you slip, causing you to lose balance.
+    You roll down with spectacular tumbles and hit the bottom.\r\n\r\nThankfully you
+    have shell, so you're fine. It was quite loud though and you're worried the tiger
+    may have heard you.\r\n\r\n1: Stay put for a while and hide, just in case.\r\n\r\n2:
+    Keep going, watermelon calls!\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 61bf334ac5b9b594095ea8a41bac29c6, type: 2}

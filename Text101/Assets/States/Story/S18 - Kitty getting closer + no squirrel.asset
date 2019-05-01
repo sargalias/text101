@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
+  m_Name: S18 - Kitty getting closer + no squirrel
+  m_EditorClassIdentifier: 
+  storyText: "Kitty is close now and is getting even closer. You don't have a lot
+    of time until she's here. You don't have a stone to throw at her either.\r\n\n1:
+    Hide in your shell for protection.\r\n\n2: Run towards the watermelon at full
+    speed and hope for the best."
+  nextStates:
+  - {fileID: 11400000, guid: c2e76aea058680c498af591ceb39fcd5, type: 2}
+  - {fileID: 11400000, guid: 06d97694a254ce141a9899144f1786d6, type: 2}

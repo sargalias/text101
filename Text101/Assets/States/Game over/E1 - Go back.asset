@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
-  m_Name: State2
+  m_Name: E1 - Go back
   m_EditorClassIdentifier: 
-  storyText: State 2 text
+  storyText: "You change your mind and decide to go back to the beach. Watermelon
+    is not worth the dangers of the jungle!\r\n\r\n1: Play again."
   nextStates:
   - {fileID: 11400000, guid: e4dc4dde80e902c438be1e4b476f0eb1, type: 2}

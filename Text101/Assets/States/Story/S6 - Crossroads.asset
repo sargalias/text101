@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
+  m_Name: S6 - Crossroads
+  m_EditorClassIdentifier: 
+  storyText: "You look behind you and there's still some distance between you and
+    Kitty, she hasn't caught up to you yet.\r\n\r\nIn front of you there are 3 paths.\r\n\r\nThe
+    one to the left leads between some trees that are closely packed together, where
+    Kitty would have trouble traversing through. You think you should be able to fit
+    through there.\r\n\r\nThe one to the right is a dead end.\r\n\r\nThe one straight
+    ahead is an open path.\r\n\r\nThere are also some small stones nearby you can
+    use for throwing.\r\n\r\n1: Go left.\r\n\r\n2: Go right.\r\n\r\n3: Go forward.\r\n\r\n4:
+    Pick up stones and throw them at Kitty."
+  nextStates:
+  - {fileID: 11400000, guid: e38004ac3b7c7c34cb15d3b5a3f2a96c, type: 2}
+  - {fileID: 11400000, guid: c2e76aea058680c498af591ceb39fcd5, type: 2}
+  - {fileID: 11400000, guid: c2e76aea058680c498af591ceb39fcd5, type: 2}
+  - {fileID: 11400000, guid: 413871da7b1ce5b4b9a22834e56082b8, type: 2}

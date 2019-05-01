@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
+  m_Name: S10 - Squirrel comes to you
+  m_EditorClassIdentifier: 
+  storyText: "As you're walking you see squirrel again. He's now running around on
+    trees collecting nuts.\r\n\r\nHe spots you and comes down to talk to you.\r\n\r\nSquirrel:
+    \"Have you found the watermelon yet?\"\r\n\r\nYou: \"No I haven't.\"\r\n\r\nSquirrel:
+    \"Oh, well... Would you like a nut then?\"\r\n\r\nSquirrel takes a nut and holds
+    it towards you.\r\n\r\nYou: \"No, I'm going to wait for the watermelon :)\".\r\n\r\nSquirrel:
+    \"Oh okay, it's that way. I'll walk with you... I've got enough nuts for now and...
+    I've got nothing better to do...\"\r\n\r\n1: Continue walking towards the watermelon
+    while talking to squirrel.\r\n\r\n2: Continue walking towards the watermelon and
+    tell squirrel to go away."
+  nextStates:
+  - {fileID: 11400000, guid: c4c1ed3224d6c324cbbf432593b75424, type: 2}
+  - {fileID: 11400000, guid: 545a3f7123c3d994fa00422485faad76, type: 2}

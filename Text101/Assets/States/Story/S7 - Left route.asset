@@ -10,11 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dfc4e77981b55994aa6b7eb47150f997, type: 3}
-  m_Name: State1
+  m_Name: S7 - Left route
   m_EditorClassIdentifier: 
-  storyText: "You are a little turtle who is all alone in the Jungle. There are many
-    threats in the jungle, so you need to take care when traversing through it. You
-    originally came here from the sea to find watermelon.\r"
+  storyText: "You go through the gaps in the tree roots and trunks. The tiger can't
+    fit through so she gives up for now and looks for something better to \r\n\r\nYou're
+    safe for now.\r\n\r\n1: Continue the hunt for the watermelon!"
   nextStates:
-  - {fileID: 11400000, guid: d8c725cd7ca05fe41b1a5320ea931c64, type: 2}
-  - {fileID: 11400000, guid: d8c725cd7ca05fe41b1a5320ea931c64, type: 2}
+  - {fileID: 11400000, guid: 7d87aa5d8af3f1c4cb95be283631ec01, type: 2}
