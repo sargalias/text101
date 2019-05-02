@@ -31,7 +31,8 @@ public class AdventureGame : MonoBehaviour {
     private void UpdateState() {
         State[] nextStates = state.GetNextStates();
         for (int i = 0; i < nextStates.Length; i++) {
-            if (Input.GetKeyDown(KeyCode.Alpha1 + i)) {
+            if (Input.GetKeyDown(KeyCode.Alpha1 + i) ||
+                Input.GetKeyDown(KeyCode.Keypad1 + i)) {
                 state = nextStates[i];
             }
         }
