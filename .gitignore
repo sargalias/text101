@@ -57,3 +57,6 @@ crashlytics-build.properties
 
 # IDEs
 .vscode/
+
+# Build
+dist/
