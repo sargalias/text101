@@ -21,3 +21,4 @@ MonoBehaviour:
     Keep going, watermelon calls!\r\n\r\n"
   nextStates:
   - {fileID: 11400000, guid: 61bf334ac5b9b594095ea8a41bac29c6, type: 2}
+  - {fileID: 11400000, guid: 61bf334ac5b9b594095ea8a41bac29c6, type: 2}
