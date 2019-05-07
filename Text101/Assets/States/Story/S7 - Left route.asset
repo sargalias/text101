@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: S7 - Left route
   m_EditorClassIdentifier: 
   storyText: "You go through the gaps in the tree roots and trunks. The tiger can't
-    fit through so she gives up for now and looks for something better to \r\n\r\nYou're
+    fit through so she gives up for now and looks for something better to \rdo.\n\r\nYou're
     safe for now.\r\n\r\n1: Continue the hunt for the watermelon!"
   nextStates:
   - {fileID: 11400000, guid: 7d87aa5d8af3f1c4cb95be283631ec01, type: 2}
