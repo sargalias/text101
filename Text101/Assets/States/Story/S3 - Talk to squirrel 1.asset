@@ -15,9 +15,8 @@ MonoBehaviour:
   storyText: "Squirrel tells you to be careful because there is a large tiger called
     \"Kitty\" who is very dangerous and hunts turtles who come looking for watermelon.
     Watch out for her if you see her.\r\n\r\n\"If you're unlucky enough that she spots
-    you, head to the crossroads and go left\". The squirrel then points towards the
-    distance and says \"P.S. the watermelon is that way\".\r\n\r\nThe squirrel then
-    jumps away to go get nuts from a nearby tree.\r\n\r\n1: Keep going towards the
-    watermelon."
+    you, head to the crossroads and go left\". Squirrel points towards the distance
+    and says \"P.S. the watermelon is that way\".\r\n\r\nSquirrel jumps away to go
+    get nuts from a nearby tree.\r\n\r\n1: Keep going towards the watermelon."
   nextStates:
   - {fileID: 11400000, guid: ec1add7c837092b418644ec37ddbefdb, type: 2}
