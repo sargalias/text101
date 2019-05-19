@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "You're certain the watermelon must be towards the center of the jungle,
     because where else would it be?\r\n\r\nAs you keep going you come across various
-    different animals like frogs, parrots... all of them minding their own business.\r\n\r\nYou
+    different animals like frogs, parrots... all of them minding their own business.\r\n\nYou
     also see an energetic squirrel who seems to be sunbathing but looks like he's
     got something to say.\r\n\r\n1: Keep going deeper into the jungle.\r\n\r\n2: Talk
     to the squirrel."
