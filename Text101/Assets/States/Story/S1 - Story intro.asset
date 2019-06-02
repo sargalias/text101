@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: S1 - Story intro
   m_EditorClassIdentifier: 
   storyText: "You are an adventurous turtle who's craving watermelon. You came to
-    the jungle in search for it.\r\n\r\nBe careful as there are many dangers in the
+    the jungle in search for it.\r\n\nBe careful as there are many dangers in the
     jungle, and you are quite little. But thankfully you've got a shell and stone
     throwing powers to defend yourself.\r\n\r\n1: Proceed further into the jungle.\r\n\r\n2:
     It's too dangerous. Go back to your beach."
