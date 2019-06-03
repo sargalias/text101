@@ -15,7 +15,7 @@ MonoBehaviour:
   storyText: "As you continue walking Kitty notices you. She turns and slowly starts
     walking towards you.\r\n\r\nRealising how bad the situation is, you panic and
     start to run as fast as you can towards some crossroads (you're still going very
-    slowly though).\r\n\r\nThankfully, you reach the crossroads before the tiger catches
+    slowly though).\r\n\nThankfully, you reach the crossroads before the tiger catches
     up to you.\r\n\r\n1: Continue."
   nextStates:
   - {fileID: 11400000, guid: 89ace3a3e6cfb844a9235a0d1fe3b95e, type: 2}
